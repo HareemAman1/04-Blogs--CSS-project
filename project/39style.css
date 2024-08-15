@@ -9,15 +9,18 @@
     box-sizing: border-box;
     font-family: 'urbanist', sans-serif;
 }
+
 html{
     font-size: 62.5%;
     /* scroll-snap-type: Y proximity; */
     /* scroll-behavior: smooth;  */
     /** for scrolling within page  **/
 }
+
 h1, h2, h3, h4, h5, h6{
     font-family: 'poppins', sans-serif;
 }
+
 p, li, a, label{
     font-family: 'urbanist', sans-serif;
     font-size: 1.8rem;
@@ -26,9 +29,11 @@ p, li, a, label{
     font-weight: 400;
     color: var(--bg-color);
 }
+
 a{
     text-decoration: none;
 }
+
 li{
     list-style: none;
 }
